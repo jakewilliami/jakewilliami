@@ -12,5 +12,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jakewilliami&show_icons=true&theme=cobalt" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakewilliami&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakewilliami&hide=shell&theme=cobalt&langs_count=8" />
 </a>
