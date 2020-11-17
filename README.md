@@ -14,3 +14,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakewilliami&hide=shell&theme=darcula&langs_count=8" />
 </a>
+
+---
+
+<sup>I have omitted `shell` in the above list of "Most Used Languages".</sup>
