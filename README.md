@@ -5,7 +5,6 @@
 ![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&logoColor=white&color=7c5c87)
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=7c5c87)
 ![](https://img.shields.io/badge/Editor-Emacs-informational?style=flat&logo=gnu-emacs&logoColor=white&color=7c5c87)
-![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=7c5c87)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=7c5c87)
 ![](https://img.shields.io/badge/Shell-tcsh-informational?style=flat&logo=tcsh&logoColor=white&color=7c5c87)
 
