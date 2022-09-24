@@ -12,10 +12,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jakewilliami&show_icons=true&theme=darcula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakewilliami&hide=shell,handlebars,less&exclude_repo=jakewilliami.github.io&theme=darcula&langs_count=10&layout=compact" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakewilliami&hide=shell,typescript,handlebars,less&exclude_repo=jakewilliami.github.io&theme=darcula&langs_count=10&layout=compact" />
 </a>
 
 
 ---
 
-<sup>I have omitted `shell` in the above list of "Most Used Languages".</sup>
+<sup>I have omitted [`shell`](https://github.com/jakewilliami/scripts/tree/master/bash) and [`typescript`](https://github.com/jakewilliami/GorillaSCExperiment/tree/master/src) in the above list of "Most Used Languages".</sup>
