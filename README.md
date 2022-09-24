@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/Shell-tcsh-informational?style=flat&logo=tcsh&logoColor=white&color=7c5c87)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jakewilliami&show_icons=true&theme=darcula" />
+  <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakewilliami&show_icons=true&theme=darcula" />-->
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakewilliami&hide=shell,typescript,handlebars,less&exclude_repo=jakewilliami.github.io&theme=darcula&langs_count=10&layout=compact" />
