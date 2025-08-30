@@ -1,4 +1,4 @@
-<div align="center">
+<p><div align="center">
   <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=7c5c87" alt="Linux">
   <img src="https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=7c5c87" alt="macOS">
   <img src="https://img.shields.io/badge/OS-BSD-informational?style=flat&logo=freebsd&logoColor=white&color=7c5c87" alt="BSD">
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Shell-bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=7c5c87" alt="bash">
   <!--<img src="https://img.shields.io/badge/Shell-tcsh-informational?style=flat&logo=tcsh&logoColor=white&color=7c5c87" alt="tcsh">-->
   <!--<img src="https://img.shields.io/badge/Shell-csh-informational?style=flat&logo=csh&logoColor=white&color=7c5c87" alt="csh">-->
-</div>
+</div></p>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
